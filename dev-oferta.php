@@ -1,11 +1,10 @@
 <?php
 /*
-Plugin Name: DevSolution Oferta
-Plugin URI: http://devsolution.info/dev-oferta/
-Description: Disa ndryshime te bera per ofertasuksesi
+Plugin Name: Laracodes Post Expired
+Description: Wordpress plugin dedicated for directory theme posts
 Author: Sami Maxhuni
 Version: 1.0.0
-Author URI: http://devsolution.info
+Author URI: http://laracodes.com
 Text Domain: dev-oferta
 */
 
